@@ -1,2 +1,20 @@
-# Address-Book
-Created a menu-driven address book application in C to add, search, edit, and delete contacts. Used structures, file handling, and functions for data management.
+Address Book in C
+A simple Address Book application developed in C.
+
+Features
+Create Contact
+Search Contact
+Edit Contact
+Delete Contact
+List Contacts
+Save Contacts to File
+Technologies Used
+C Programming
+File Handling
+How to Run
+Compile using: gcc main.c contact.c -o addressbook
+
+Run: ./addressbook
+
+Author
+Subrata Kumar Sahu
