@@ -11,10 +11,6 @@ Save Contacts to File
 Technologies Used
 C Programming
 File Handling
-How to Run
-Compile using: gcc main.c contact.c -o addressbook
-
-Run: ./addressbook
 
 Author: 
 Subrata Kumar Sahu
