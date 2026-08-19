@@ -16,5 +16,5 @@ Compile using: gcc main.c contact.c -o addressbook
 
 Run: ./addressbook
 
-Author
+Author: 
 Subrata Kumar Sahu
